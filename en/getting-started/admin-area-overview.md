@@ -7,7 +7,7 @@ contributors: git.rajupaladiya, git.exileDev, git.DmitriyKulagin, git.IvanIvanIv
 
 # nopCommerce interface
 
-This chapter covers the basics of nopCommerce interface.
+This chapter covers the basics of nopCommerce interface1.
 
 Once logged in, you should see the **Administration** hyperlink at the top of your website. Or you can simply add `/admin` to the end of your site's URL to open the admin area. For example: `www.example.com/admin`.
 
